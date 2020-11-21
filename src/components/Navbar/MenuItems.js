@@ -1,22 +1,22 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: '#',
+        url: '/',
         cName: 'nav-links'
     },
     {
         title: 'Projects',
-        url: '#',
+        url: '/projects',
         cName: 'nav-links'
     },
     {
         title: 'About',
-        url: 'https://marcuspramirez.github.io/responsive-portfolio-hw2/index.html',
+        url: 'about',
         cName: 'nav-links'
     },
     {
         title: 'Contact',
-        url: '#',
+        url: 'contact',
         cName: 'nav-links'
     }
 ]

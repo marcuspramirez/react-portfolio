@@ -7,8 +7,8 @@ export const ProjectItems = [
     },
     {
         name: 'Bracket-Game',
-        repo: '#',
-        cName: 'https://github.com/prabin544/Bracketeers',
+        repo: 'https://github.com/prabin544/Bracketeers',
+        cName: 'project-links',
         screenshot: 'image'
     },
     {

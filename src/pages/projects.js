@@ -5,7 +5,7 @@ import './Projects.css';
 
 
 
-class ProjectList extends Component {
+class ProjectsPage extends Component {
     
 
     render() {
@@ -29,4 +29,4 @@ class ProjectList extends Component {
     }
 }
 
-export default ProjectList
+export default ProjectsPage
