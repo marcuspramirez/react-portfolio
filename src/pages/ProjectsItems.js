@@ -15,7 +15,7 @@ export const ProjectItems = [
         name: 'Password-Generator',
         repo: 'https://github.com/marcuspramirez/password-generator',
         cName: 'project-links',
-        screenshot: 'image'
+        screenshot: 'https://randomuser.me/api/portraits/men/56.jpg'
     },
     {
         name: 'Readme-Generator',

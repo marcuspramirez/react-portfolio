@@ -1,3 +1,20 @@
 .project-links {
     color: rgb(37, 33, 105);
 }
+
+.repos {
+    text-align: center;
+}
+
+.repo-logo {
+    text-align: center;
+}
+
+.clickit1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25rem;
+    padding: 1.5rem;
+   
+}

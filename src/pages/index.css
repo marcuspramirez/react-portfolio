@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    position: relative;
+    top: 3rem;
+}
+
+.aboutme {
+    padding: 3.5rem;
+    margin: 3rem;
+    
+}
+
+IMG.cartoon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

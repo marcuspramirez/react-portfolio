@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from "./components/Navbar/Navbar";
 import Title from './components/Title';
 import  { BrowserRouter as Router, Route, Switch, Link, Redirect  } from 'react-router-dom';
-
+import Contact from "./pages/contact";
 
 
 // Pages
@@ -20,6 +20,7 @@ class App extends Component {
     <Switch>
       <Route exact path="/" component={MainPage} />
       <Route exact path="/projects" component={ProjectsPage} />
+      <Route exact path="/contact" component={Contact} />
       <Route exact path="/404" component={NotFoundPage}/>
       <Redirect to="/404/"/>
     </Switch>
