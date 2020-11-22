@@ -1,7 +1,7 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: '/',
+        url: 'https://marcuspramirez.github.io/react-portfolio/',
         cName: 'nav-links'
     },
     {
